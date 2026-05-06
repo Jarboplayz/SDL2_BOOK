@@ -11,6 +11,7 @@ So after reading, don't expect to learn ALL of SDL2. No one actually know SDL2 w
 a reference. Other programmers, still check the SDL Wiki. But i just made a book, so pretty cool.
 
 Sources:
+
 https://wiki.libsdl.org/SDL2/FrontPage
 
 https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
