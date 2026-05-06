@@ -12,6 +12,7 @@ a reference. Other programmers, still check the SDL Wiki. But i just made a book
 
 Sources:
 https://wiki.libsdl.org/SDL2/FrontPage
+
 https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
 
 [Download or View the SDL2 Complete Course PDF](./SDL2_Complete_Course_CPP.pdf)
