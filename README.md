@@ -9,3 +9,5 @@ to Actually making a simple 2D platformer game!
 __After Reading:__
 So after reading, don't expect to learn ALL of SDL2. No one actually know SDL2 without actually looking at
 a reference. Other programmers, still check the SDL Wiki. But i just made a book, so pretty cool.
+
+[Download or View the SDL2 Complete Course PDF](./SDL2_Complete_Course_CPP.pdf)
